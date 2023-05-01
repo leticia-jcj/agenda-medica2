@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 17 08:46:41 GFT 2021
+file\://C\:/Users/ivanoliveira/.m2/.error=
+http\://desenv.caesb/nexus/content/groups/public/.error=
+http\://repository.prime.com.tr/.error=Could not transfer artifact org.jboss.weld.servlet\:weld-servlet\:jar\:javadoc\:1.1.10.Final from/to prime-repo (http\://repository.prime.com.tr)\: repository.prime.com.tr
+file\://C\:/Users/ivanoliveira/.m2/.lastUpdated=1615981472991
+http\://repository.primefaces.org/.error=
+http\://desenv.caesb/nexus/content/groups/public/.lastUpdated=1615425613776
+file\://C\:\\Users\\ivanoliveira\\.m2/.lastUpdated=1615981195056
+file\://C\:\\Users\\ivanoliveira\\.m2/.error=
+file\://C\:\\Users\\ivanoliveira\\.m2\\repository/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1597510583299
+http\://www.javaxt.com/maven/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repository.primefaces.org/.lastUpdated=1597510582869
+file\://C\:\\Users\\ivanoliveira\\.m2\\repository/.lastUpdated=1615981601133
+@default-prime-repo-http\://repository.prime.com.tr/.lastUpdated=1613159986467
+http\://www.javaxt.com/maven/.lastUpdated=1597510583055
